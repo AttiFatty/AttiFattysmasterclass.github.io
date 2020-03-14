@@ -1,41 +1,11 @@
-/* Improved boilerplate at the top
-Next Chance I get I will ask for help from one of the peeps in linking
-but for now just either duplicate this file 
-into the file you are working in, Sorry
-
-
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-        <link rel="stylesheet" href="masterclass.css">
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-
-
-        <title>TITLESPACE</title>
-    </head>
-
-    <body>
-
-
-
-    
-    </body>
-</html>
-
-This is a copy pastable link that works with the GitRepository path so as I update from the master this should be applyable
-The second line of code is to link you with bootstrap
-
-
-1st Text Modifiers in this case Text Modifiers will be recognized by "tm"
-    for example tmfs would refer to font size tmfst for font style
-    then with these specifications seperate the defining piece of the modifier with an underscore
-    tmfs_lrg(for example)
-    tm followed by an underscore will be reserved for simple common single appearance change
-    like tm_tl for "top-line" for a bold and large modifier for the "about me" places on websites
+/* 
+1st
+Text Modifiers in this case Text Modifiers will be recognized by "tm"
+for example tmfs would refer to font size tmfst for font style
+then with these specifications seperate the defining piece of the modifier with an underscore
+tmfs_lrg(for example)
+tm followed by an underscore will be reserved for simple common single appearance change
+like tm_tl for "top-line" for a bold and large modifier for the "about me" places on websites
 
 */
     .tm_tl{
